@@ -1,0 +1,14 @@
+C:\Users\samba\source\repos\Triangle1\Triangle1\bin\Debug\net9.0-windows7.0\TriangleApp.exe
+C:\Users\samba\source\repos\Triangle1\Triangle1\bin\Debug\net9.0-windows7.0\TriangleApp.deps.json
+C:\Users\samba\source\repos\Triangle1\Triangle1\bin\Debug\net9.0-windows7.0\TriangleApp.runtimeconfig.json
+C:\Users\samba\source\repos\Triangle1\Triangle1\bin\Debug\net9.0-windows7.0\TriangleApp.dll
+C:\Users\samba\source\repos\Triangle1\Triangle1\bin\Debug\net9.0-windows7.0\TriangleApp.pdb
+C:\Users\samba\source\repos\Triangle1\Triangle1\obj\Debug\net9.0-windows7.0\TriangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samba\source\repos\Triangle1\Triangle1\obj\Debug\net9.0-windows7.0\TriangleApp.AssemblyInfoInputs.cache
+C:\Users\samba\source\repos\Triangle1\Triangle1\obj\Debug\net9.0-windows7.0\TriangleApp.AssemblyInfo.cs
+C:\Users\samba\source\repos\Triangle1\Triangle1\obj\Debug\net9.0-windows7.0\TriangleApp.csproj.CoreCompileInputs.cache
+C:\Users\samba\source\repos\Triangle1\Triangle1\obj\Debug\net9.0-windows7.0\TriangleApp.dll
+C:\Users\samba\source\repos\Triangle1\Triangle1\obj\Debug\net9.0-windows7.0\refint\TriangleApp.dll
+C:\Users\samba\source\repos\Triangle1\Triangle1\obj\Debug\net9.0-windows7.0\TriangleApp.pdb
+C:\Users\samba\source\repos\Triangle1\Triangle1\obj\Debug\net9.0-windows7.0\TriangleApp.genruntimeconfig.cache
+C:\Users\samba\source\repos\Triangle1\Triangle1\obj\Debug\net9.0-windows7.0\ref\TriangleApp.dll
